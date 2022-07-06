@@ -5,6 +5,12 @@
   padding: 100px 0;
 }
 
+.login-wrapper{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 .login > img {
   object-fit: contain;
   height: 70px;

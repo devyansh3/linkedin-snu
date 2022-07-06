@@ -23,8 +23,8 @@ const Header = () => {
     <div className="header">
       <div className="header__left">
         <img
-          src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"
-          alt="Linkedin Logo"
+          src='https://www.shivnadarfoundation.org/sites/default/files/SNU%20LOGO.jpg'
+          alt="Snu Logo"
         />
 
         <div className="header__search">

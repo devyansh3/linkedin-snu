@@ -62,10 +62,20 @@ const Login = () => {
 
   return (
     <div className="login">
+      <div className="login-wrapper">
       <img
-        src="https://news.hitb.org/sites/default/files/styles/large/public/field/image/500px-LinkedIn_Logo.svg__1.png"
-        alt="Linkedin main logo"
+      style={{height: '70px'}}
+        src='https://www.shivnadarfoundation.org/sites/default/files/SNU%20LOGO.jpg'
+        alt="Snu Logo"
       />
+      <img
+      style={{height: '70px', marginLeft:'10px'}}
+
+        src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png'
+        alt="Snu Logo"
+      />
+      </div>
+      
 
       <form>
         <input
