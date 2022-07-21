@@ -1,5 +1,6 @@
 # Project Link
 
-https://linkedin-clone-2dc4d.web.app/
+https://snu-linkedin.herokuapp.com/
 
-## Build from Sonny Sangha YouTube Tutorial LinkedIn Clone
+## About
+A social app for college mates that allows people to share what there currently doing by uploading a post, updating status and more.
